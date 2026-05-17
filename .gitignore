@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# LaTeX auxiliary files (in case you have them)
+*.aux
+*.log
+*.out
+*.toc
+*.nav
+*.snm
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# Local editor/environment folders
+.kilo/
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Data files
+*.csv
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Generated output files
+*.pkl
+*.pickle
+output/
+results/
+logs/
+*.out
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Python egg info
+*.egg-info/
+dist/
+build/
+
+# Excluded by user request
+*.png
+*.pdf
+*.md
+*.doc
